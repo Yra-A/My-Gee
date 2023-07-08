@@ -4,5 +4,5 @@ Gee is a Gin-like web framework.
 
 *   Day1：utilizes the HTTP library to construct a preliminary prototype of the Gee framework.
 *   Day2：implements Context that encapsulates the request, responseWriter, and other related information.
-*   Day3: implements Trie to parse prefix routing.
+*   Day3: implements Trie to parse routing.
 
